@@ -1,28 +1,33 @@
-🚀 Salon Management Web Application
+## 🚀 Salon Management Web Application
 
 A modern and responsive Salon Management Web Application designed to simplify salon operations like appointment booking, service management, customer handling, and scheduling. Built using the latest full-stack web technologies for performance, scalability, and smooth user experience ✨.
 
-🛠️ Tech Stack & Tools
+##🛠️ Tech Stack & Tools
 🎨 Frontend
 Next.js (App Router)
 React
 TypeScript
 Tailwind CSS
 React Icons
+
 ⚙️ Backend
 Next.js API Routes
-Node.js
+Node.js  
+
 🗄️ Database
 Prisma ORM
 PostgreSQL / SQLite
+
 🧪 Testing
 Jest
+
 🚀 Development & Deployment
 GitHub
 Vercel
 ESLint
 PostCSS
-🔥 Key Highlights
+
+## 🔥 Key Highlights
 
 ✅ Modern & Responsive UI – Clean interface with mobile-first responsive design using Tailwind CSS.
 
@@ -42,31 +47,33 @@ PostCSS
 
 ✅ Deployment Ready – Easily deployable on Vercel.
 
-📸 Features Overview
+## 📸 Features Overview
 Dashboard 📊	Booking System 📅	Service Management ✂️	Customer Records 👤
 Manage salon operations	Online appointment booking	Add/Edit salon services	Store customer information
-🛠️ Setup & Installation
+
+## 🛠️ Setup & Installation
 
 Run the project locally in a few simple steps:
 
-# Clone the repository
+## Clone the repository
 git clone <YOUR_GITHUB_REPOSITORY_LINK>
 
-# Move into project folder
+## Move into project folder
 cd Salon-Management-Web-Application
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Setup Prisma Database
+## Setup Prisma Database
 npx prisma migrate dev --name init
 
-# Open Prisma Studio
+## Open Prisma Studio
 npx prisma studio
 
-# Run development server
+## Run development server
 npm run dev
-⚙️ Environment Variables
+
+## ⚙️ Environment Variables
 
 Create a .env file in the root directory and configure your database URL:
 
@@ -79,7 +86,8 @@ DATABASE_URL="file:./dev.db"
 Example for PostgreSQL:
 
 DATABASE_URL="postgresql://username:password@localhost:5432/salon_db"
-📂 Project Structure
+
+## 📂 Project Structure
 /app
  ├── api
  ├── dashboard
@@ -90,20 +98,22 @@ DATABASE_URL="postgresql://username:password@localhost:5432/salon_db"
 /prisma
 /public
 /styles
+
 🚀 Available Commands
-# Run development server
+
+## Run development server
 npm run dev
 
-# Prisma migration
+## Prisma migration
 npx prisma migrate dev --name init
 
-# Open Prisma Studio
+## Open Prisma Studio
 npx prisma studio
 
-# Run tests
+## Run tests
 npm test
 
-# Build project
+## Build project
 npm run build
 🌟 Future Improvements
 🔐 Authentication System
