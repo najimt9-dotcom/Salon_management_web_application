@@ -1,33 +1,28 @@
-# 🚀 Salon Management Web Application
+🚀 Salon Management Web Application
 
 A modern and responsive Salon Management Web Application designed to simplify salon operations like appointment booking, service management, customer handling, and scheduling. Built using the latest full-stack web technologies for performance, scalability, and smooth user experience ✨.
 
-# 🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools
 🎨 Frontend
 Next.js (App Router)
 React
 TypeScript
 Tailwind CSS
 React Icons
-
 ⚙️ Backend
 Next.js API Routes
 Node.js
-
 🗄️ Database
 Prisma ORM
 PostgreSQL / SQLite
-
 🧪 Testing
 Jest
-
 🚀 Development & Deployment
 GitHub
 Vercel
 ESLint
 PostCSS
-
-# 🔥 Key Highlights
+🔥 Key Highlights
 
 ✅ Modern & Responsive UI – Clean interface with mobile-first responsive design using Tailwind CSS.
 
