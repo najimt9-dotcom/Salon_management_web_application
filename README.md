@@ -2,7 +2,8 @@
 
 A modern and responsive Salon Management Web Application designed to simplify salon operations like appointment booking, service management, customer handling, and scheduling. Built using the latest full-stack web technologies for performance, scalability, and smooth user experience ✨.
 
-##🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
+
 🎨 Frontend
 Next.js (App Router)
 React
